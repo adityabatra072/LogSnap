@@ -11,7 +11,6 @@ LogSnap notifies you on every login to your PC by sending a Telegram message wit
 ## Setup Instructions
 
 ### 1. Clone the Repository
-    ```sh
     git clone https://github.com/yourusername/LogSnap.git
     cd LogSnap
     pip install -r requirements.txt
